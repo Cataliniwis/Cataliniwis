@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Catalina Rebolledo 👋</h1>
+<h1 align="center">¡Hola! Soy Catalina Rebolledo Rojas👋</h1>
 <p align="center">
   <b>Técnico en Ciberseguridad</b> · Estudiante de Ingeniería en Ciberseguridad (3er año)<br/>
   Red Team · Pentesting · Seguridad Cloud
